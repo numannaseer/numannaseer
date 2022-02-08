@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @numannaseer
-- 👀 I’m interested in Web App Development
+- 👀 I’m interested in Backend Web Development(MERN-Stack)
 - 🌱 I’m currently learning Data Science & ios development
 - 📫 you can reach me at abcandmum@gmail.com
 
