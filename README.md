@@ -6,9 +6,19 @@ I believe Web Development is an art. Just like an artist uses his brush and colo
 
 I love learning new things. I like exploring a topic in depth and I don't give up easily which makes me stand apart from other developers. Iam always curious about how stuff works under the hood whether it is coding or other aspects of life. I prefer working in an organization which not only values its clients but its employees as well.
 
+
+
+
+
+
+
+
+
+
 My Skill Set (Development, Design & Maintenance):-
 
 DEVELOPMENT: 
+
 The work primarily includes developing Responsive Websites using technologies like HTML5, CSS3 with Flexbox & Grid, JS based on ES6 and successive scripts, frameworks like Bootstrap and Tailwind CSS, libraries like ReactJS, Redux and jQuery.
 
 I extensively work with Axios library for making HTTP requests to servers. Postman is one of the API testing platforms, I frequently use during development.
@@ -16,7 +26,10 @@ I extensively work with Axios library for making HTTP requests to servers. Postm
 My Backend knowledge includes well acquaintance with server-side runtime platform like Node.js with Express.js framework and MongoDB DBMS. I am also familiar with Python, C, C++ and PHP programming languages, and MySQL DBMS.
 
 
+
+
 DESIGN & MAINTENANCE: 
+
 The goal is to design interfaces as per client's requirements by selecting color palettes which are appealing to the end-users and at the same time ensuring a user friendly structure with good user flow for the Responsive Websites.
 
 I use Git Bash, Hyper CLI and GitKraken GUI for Local Version Control Management, and GitHub, an online platform for Remote Version Control Management.
